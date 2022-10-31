@@ -1,5 +1,3 @@
-# 由於更改pyterract.py讀取檔案位址，須將OCR資料夾，存於同一目錄
-# 在點選第一個加選時，選其他項目會導致出錯
 # 藉由光學套件OCR直接正面突破驗證碼
 from selenium import webdriver
 from selenium.webdriver.common.by import By
